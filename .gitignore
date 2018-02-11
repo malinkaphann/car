@@ -1,0 +1,6 @@
+*.o
+.flavor
+.objs
+car.so
+assets.h
+cert
